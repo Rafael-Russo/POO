@@ -1,0 +1,10 @@
+C:\Users\rafae\Desktop\ProjetoMVC2020-master\obj\Debug\Atividade_Poo.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\ProjetoMVC2020-master\obj\Debug\ProjetoMVC2020.Form1.resources
+C:\Users\rafae\Desktop\ProjetoMVC2020-master\obj\Debug\Atividade_Poo.Properties.Resources.resources
+C:\Users\rafae\Desktop\ProjetoMVC2020-master\obj\Debug\Atividade_Poo.csproj.GenerateResource.cache
+C:\Users\rafae\Desktop\ProjetoMVC2020-master\obj\Debug\Atividade_Poo.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\Atividade_Poo\obj\Debug\Atividade_Poo.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\Atividade_Poo\obj\Debug\ProjetoMVC2020.Form1.resources
+C:\Users\rafae\Desktop\Atividade_Poo\obj\Debug\Atividade_Poo.Properties.Resources.resources
+C:\Users\rafae\Desktop\Atividade_Poo\obj\Debug\Atividade_Poo.csproj.GenerateResource.cache
+C:\Users\rafae\Desktop\Atividade_Poo\obj\Debug\Atividade_Poo.csproj.CoreCompileInputs.cache
